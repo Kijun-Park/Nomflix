@@ -27,7 +27,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://Kijun-Park.github.io/Nomflix",
+  "homepage": "https://loving-sinoussi-bd6e47.netlify.com/",
   "browserslist": [
     ">0.2%",
     "not dead",
