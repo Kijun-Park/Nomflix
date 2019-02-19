@@ -26,3 +26,7 @@ Learning React and ES6 by building a Movie Discovery App.
 - [ ] Tabs inside of Movie /Show Details (YT Videos, Production Company & Countries)
 - [ ] /collections Route
 - [ ] On TV Show, show seasons and creators.
+
+# Preview
+
+Try it on [netlify](https://loving-sinoussi-bd6e47.netlify.com)
