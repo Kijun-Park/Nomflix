@@ -65,7 +65,7 @@ const Poster = ({ id, imageUrl, title, rating, year, isMovie = false }) => (
           {rating} / 10
         </Rating>
         <Title>
-          {title.length > 15 ? `${title.substring(0, 17)}...` : title}
+          {title.length > 14 ? `${title.substring(0, 17)}...` : title}
         </Title>
         <Year>{year}</Year>
       </ImageContainer>
